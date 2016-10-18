@@ -19,5 +19,5 @@ tambah di branch
 dari master
 
 dari branch ke master
-
+tambah ke master dari branch
 
