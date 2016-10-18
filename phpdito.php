@@ -18,5 +18,6 @@ tambah di branch
 
 dari master
 
+dari branch ke master
 
 
